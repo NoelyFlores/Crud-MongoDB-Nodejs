@@ -9,4 +9,4 @@ Instalar dependencias
 ### Descargar e installar Postman
 [Postman][https://www.getpostman.com/] es un cliente HTTP muy poderoso que se utiliza para probar, documentar y desarrollar API
 ### mLab
-[mLab][https://mlab.com/] sn una base de datos remota para MongoDB
+[mLab][https://mlab.com/] es una base de datos remota para MongoDB

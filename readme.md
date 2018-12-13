@@ -1,15 +1,12 @@
 # API con MongoBD
-instalar dependencias
+Instalar dependencias
 - express
 - mongoose
 - body-parser
-`npm install --save express body-parser mongoose`
-### Descargar e installar postman
-Postman es un cliente HTTP muy poderoso que se utiliza para probar, documentar y desarrollar API
-### mLab
-La base de datos se alojara de forma remota
 
-- create new
-- sandbox
-- base de datos
-- user y contraseña
+`npm install --save express body-parser mongoose`
+
+### Descargar e installar Postman
+[Postman][https://www.getpostman.com/] es un cliente HTTP muy poderoso que se utiliza para probar, documentar y desarrollar API
+### mLab
+[mLab][https://mlab.com/] sn una base de datos remota para MongoDB
